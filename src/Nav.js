@@ -1,16 +1,14 @@
 import "./App.css";
 import React from "react";
-import Nav from "./Nav";
 
-function App() {
+function Nav() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>?</p>
-        <Nav />
+        <p>!</p>
       </header>
     </div>
   );
 }
 
-export default App;
+export default Nav;
